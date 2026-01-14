@@ -1,0 +1,8 @@
+{
+  "name": "fog-war-arena",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npm --prefix server start"
+  }
+}
