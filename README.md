@@ -1,6 +1,6 @@
 # 🎮 Fog War Arena
 
-<img width="1908" height="906" alt="image" src="https://github.com/user-attachments/assets/6162f69d-7dfc-4388-9327-c8a7a778eb5d" />
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/4f76780e-727a-40cb-be43-aea7a2d83a2d" />
 
 A real-time multiplayer top-down shooter with **fog-of-war mechanics**, built for modern web technologies.
 
