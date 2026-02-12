@@ -47,4 +47,4 @@ wss.onConnection((client) => rooms.handleClient(client));
 setInterval(() => rooms.tick(1 / TICK_RATE), 1000 / TICK_RATE);
 
 const PORT = process.env.PORT || 8080;
-server.listen(PORT, () => console.log(`http://localhost:${PORT}`));
+server.listen(PORT, "0.0.0.0", () => console.log(`Listening on ${PORT}`));
